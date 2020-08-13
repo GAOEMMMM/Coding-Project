@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+      <h1 class="redtext">Chess</h1>
+
+      <!-- Remember to put another picture here -->
+
+
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg" width="300" length="300" alt="Chess pieces">
+
+      <!-- ***How to Play Chess section***  -->
+      <article>
+        <h2>Learn How to Play Chess</h2>
+        <p class="redtext">I'll explain the rules here...</p>
+        <p class="redtext">This is my second paragraph.</p>
+        <section>
+          <h3>Chess Pieces</h3>
+          <p class="centered">These are the chess pieces:</p>
+          <br>
+          <ul>
+            <li>King</li>
+            <li>Queen</li>
+            <li>Pawn</li>
+            <li>Rook</li>
+            <li>Bishop</li>
+            <li>Knight</li>
+          </ul>
+        </section>
+        <section>
+          <h3>How the Pieces Move</h3>
+          <p>Explain how they move...</p>
+        </section>
+      </article>
+
+      <hr>
+
+      <!-- Chess Player section -->
+      <article>
+        <h2>Famous Chess Players</h2>
+        <p>Another paragraph about players...</p>
+      </article>
+
+      <p>Check out <a href="https://www.wikipedia.org/" target="_blank" title="Go to Wikipedia">Wikipedia</a>.</p>
+    </body>
+    </html>
+  </body>
+</html>
